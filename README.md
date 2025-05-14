@@ -1,6 +1,6 @@
 # Volební Scraper 2017 (volby.cz)
 
-Pythonový nástroj pro stahování a ukládání volebních výsledků z voleb do Poslanecké sněmovny ČR 2017 (volby.cz).
+Python nástroj pro stahování a ukládání volebních výsledků z voleb do Poslanecké sněmovny ČR 2017 (volby.cz).
 
 # Funkce
 
