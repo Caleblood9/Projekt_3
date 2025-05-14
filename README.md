@@ -28,13 +28,13 @@ pip install -r requirements.txt
 # Návod pro použití:
 
 Ke spuštění potřeba 2 argumentů:
-    1. url - konkrétní odkaz na obec např. https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=1&xnumnuts=1100
-    2. název výstupního souboru např. vysledky.csv (program automaticky dopní .csv pokud není uvedeno)
+1. url - konkrétní odkaz na obec např. https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=1&xnumnuts=1100
+2. název výstupního souboru např. vysledky.csv (program automaticky dopní .csv pokud není uvedeno)
 
 Volitelné argumenty:
-  --force přepíše výstupní soubor bez dotazu
-  --no-cache ignoruje uloženou cache a vždy stahuje data z webu
-  --base-url možnost přepsání základní URL
+--force přepíše výstupní soubor bez dotazu
+--no-cache ignoruje uloženou cache a vždy stahuje data z webu
+--base-url možnost přepsání základní URL
 
 Příklad příkazu a výstupu:
 ```bash
