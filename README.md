@@ -32,9 +32,9 @@ Ke spuštění potřeba 2 argumentů:
 2. název výstupního souboru např. vysledky.csv (program automaticky dopní .csv pokud není uvedeno)
 
 Volitelné argumenty:
---force přepíše výstupní soubor bez dotazu
---no-cache ignoruje uloženou cache a vždy stahuje data z webu
---base-url možnost přepsání základní URL
+- --force přepíše výstupní soubor bez dotazu
+- --no-cache ignoruje uloženou cache a vždy stahuje data z webu
+- --base-url možnost přepsání základní URL
 
 Příklad příkazu a výstupu:
 ```bash
